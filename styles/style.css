@@ -17,7 +17,6 @@ body{
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
 .logo_place_header{
   margin: 30px 64px;
   height: 62px;
@@ -26,7 +25,6 @@ body{
   top: 0;
   left: 0;
 }
-
 .header__title{
   color:#000;
   line-height: 96px;
@@ -35,7 +33,6 @@ body{
   width: 730px;
   margin: auto 64px;
 }
-
 .header__subtitle{
   color: #000;
   line-height: 25px;
@@ -62,7 +59,6 @@ body{
   background-size: cover;
   z-index: 1;
 }
-
 .header__square-pic{
   background-color: #2f80ed;
   width: 568px;
@@ -210,7 +206,6 @@ body{
   width: 867px;
   height: 637px;
 }
-
 .kaufman{
   background-color: #1f1f1f;
   overflow: hidden;
@@ -259,12 +254,11 @@ body{
   color: white;
   margin-right: 0;
   margin-top: 80px;
-  
-  }
+}
 .table__heading_theme_dark{
   line-height: 1.15;
   font-size: 24px;
-  font-style: 600;
+  font-weight: 600;
   color: #f2f2f2;
   margin: 0;
 }
@@ -274,7 +268,7 @@ body{
   font-style: normal;
   color: #f2f2f2;
   margin-top: 20px;
-  margin-bottom: 0; 
+  margin-bottom: 0;
 
 }
 .kaufman_triangle{
@@ -287,7 +281,6 @@ body{
   background-image:url(../images/kaufman-triangle.svg);
   background-size: cover;
 }
-
 .footer{
   background-color: #000;
   color: #f2f2f2;
@@ -333,7 +326,7 @@ body{
   font-weight: 600;
 }
 .footer__column-links{
-  
+
   list-style: none;
   align-items: flex-start;
   margin: 20px 0 16px 0;
@@ -343,7 +336,7 @@ body{
   padding: 0;
 }
 .footer__column_content_social{
-  
+
 }
 .footer__column-link{
   text-decoration: none;
