@@ -1,0 +1,9 @@
+.table_theme_dark{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 auto;
+  z-index: 2;
+}

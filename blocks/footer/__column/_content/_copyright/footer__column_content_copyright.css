@@ -1,0 +1,7 @@
+.footer__column_content_copyright{
+  color: #f2f2f2;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  flex-basis: 711px;
+}
