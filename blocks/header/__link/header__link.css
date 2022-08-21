@@ -1,7 +1,5 @@
 .header__link{
   color: #2f80ed;
-  left: 0;
-  bottom: 0;
   z-index: 2;
   text-decoration: none;
   transition: 0.6s;

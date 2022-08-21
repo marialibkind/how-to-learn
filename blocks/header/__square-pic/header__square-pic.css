@@ -2,8 +2,8 @@
   background-color: #2f80ed;
   width: 568px;
   height: 568px;
-  margin-top: 64px;
+  margin: 0;
   position: absolute;
-  top: 0;
+  top: 64px;
   right: 0;
 }
